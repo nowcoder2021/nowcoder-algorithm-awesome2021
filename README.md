@@ -5,6 +5,7 @@
 3. [21届算法岗，数据岗秋招面试](https://www.nowcoder.com/discuss/597028?from=gitnowcoder2021)
 4. [分享几个算法社招面经](https://www.nowcoder.com/discuss/630495?from=gitnowcoder2021)
 5. [一个“普通人”的秋招算法岗上岸心得](https://www.nowcoder.com/discuss/634176?from=gitnowcoder2021)
+6. [[211渣硕]  腾讯/阿里/携程 详细NLP算法实习 面经](https://www.nowcoder.com/discuss/639224?from=gitnowcoder2021)
 ---
 求职之前，先上牛客。
 
